@@ -6,3 +6,4 @@ In the Program class, significant changes were implemented to accommodate a dyna
 The user interaction was refined to include options for scaling recipes by different factors and for resetting ingredient quantities to their original values. Additionally, the ability to clear a recipe from the application's memory was added, enhancing the user's control over the data.
 
 Overall, the application was transformed from a simple command-line interface into a more interactive and user-friendly tool, with expanded capabilities for recipe management and nutritional tracking. The code was structured to follow best practices, ensuring readability and maintainability.
+![Screenshot 2024-05-13 170939](https://github.com/ST10359984/Part2/assets/130744642/01328edb-2c40-4228-b236-e55760fef899)
